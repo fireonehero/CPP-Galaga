@@ -1,1 +1,1 @@
-# C-Galaga
+# CPP-Galaga
